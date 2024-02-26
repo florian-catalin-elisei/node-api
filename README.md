@@ -4,12 +4,12 @@ This is a Node.js API for managing users, including operations like retrieving u
 
 ## Installation
 
-Install my-project with npm
+Install my project with npm
 
 1. Clone the repository to your local machine:
 
 ```bash
-  git clone https://github.com/your-username/node-api.git
+  git clone https://github.com/florian-catalin-elisei/node-api.git
 ```
 
 2. Navigate to the project directory:
